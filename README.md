@@ -1,4 +1,4 @@
-# ⚡ Chat CPT Pro 
+# ⚡ Chat CPT 1.1.0
 
 > **A lightweight, terminal-native AI workspace powered by the Groq API.**
 
